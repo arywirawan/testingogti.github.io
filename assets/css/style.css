@@ -7376,7 +7376,7 @@ del {
 .contact-form input:hover,
 .contact-form textarea:hover,
 .contact-form #contact-submit:hover {
-    border-color: #BE9278;
+    border-color: #C19A6C;
 }
 
 .contact-form #contact-submit {
@@ -7443,9 +7443,9 @@ del {
 }
 
 .social-icon ul li a:hover {
-    background: #BE9278;
+    background: #C19A6C;
     color: #fff;
-    border: 1px solid #BE9278;
+    border: 1px solid #C19A6C;
 }
 
 .social-icon ul li a:hover i {
@@ -7453,7 +7453,7 @@ del {
 }
 
 .social-icon ul li a i {
-    color: #BE9278;
+    color: #C19A6C;
     display: inline-block;
     font-size: 20px;
     line-height: 50px;
@@ -7492,7 +7492,7 @@ del {
 
 
 .footer {
-    background-color: #BE9278;
+    background-color: #C19A6C;
     padding: 50px 0;
 }
 
