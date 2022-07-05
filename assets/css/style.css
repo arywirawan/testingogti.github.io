@@ -134,7 +134,8 @@ body {
     font-family: "Montserrat", sans-serif;
     font-weight: normal;
     font-style: normal;
-    font-size: 16px
+    font-size: 16px;
+    padding-right: 0;
 }
 
 h1,
@@ -3137,47 +3138,47 @@ hr {
 @media only screen and (min-width: 1200px) and (max-width: 1440px) {
     .slider-area .single-slider .hero-img img {
 
-        width: 660px;
+        width: 100%;
     }
 }
 
 @media only screen and (min-width: 1441px) and (max-width: 1500px) {
     .slider-area .single-slider .hero-img img {
 
-        width: 660px;
+        width: 100%;
     }
 }
 
 @media only screen and (min-width: 1501px) and (max-width: 1750px) {
     .slider-area .single-slider .hero-img img {
 
-        width: 660px;
+        width: 100%;
     }
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .slider-area .single-slider .hero-img img {
 
-        width: 474px;
+        width: 100%;
     }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .slider-area .single-slider .hero-img img {
 
-        width: 474px;
+        width: 100%;
     }
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
     .slider-area .single-slider .hero-img img {
-        width: 474px;
+        width: 210%;
     }
 }
 
 @media (max-width: 575px) {
     .slider-area .single-slider .hero-img img {
-        width: 400px;
+        width: 220%;
     }
 }
 
@@ -3300,7 +3301,7 @@ hr {
 .visit-tailor-area::before {
     position: absolute;
     content: "";
-    background: #F2E1D9;
+    background: #EEEEEE;
     width: 68%;
     height: 100%;
     z-index: -9;
@@ -3463,7 +3464,7 @@ hr {
 }
 
 .visit-tailor-area .tailor-offers {
-    background-image: url(../img/gallery/bg_colect.png);
+    background-image: url(../img/gallery/Mask-group-about.jpg);
     background-size: 100%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -7376,7 +7377,7 @@ del {
 .contact-form input:hover,
 .contact-form textarea:hover,
 .contact-form #contact-submit:hover {
-    border-color: #C19A6C;
+    border-color: #BE9278;
 }
 
 .contact-form #contact-submit {
@@ -7443,9 +7444,9 @@ del {
 }
 
 .social-icon ul li a:hover {
-    background: #C19A6C;
+    background: #BE9278;
     color: #fff;
-    border: 1px solid #C19A6C;
+    border: 1px solid #BE9278;
 }
 
 .social-icon ul li a:hover i {
@@ -7453,7 +7454,7 @@ del {
 }
 
 .social-icon ul li a i {
-    color: #C19A6C;
+    color: #BE9278;
     display: inline-block;
     font-size: 20px;
     line-height: 50px;
@@ -7485,14 +7486,14 @@ del {
 
 @media only screen and (max-width: 767px) {
     .google-map #map iframe {
-        max-width: 100%;
+        width: 100%;
     }
 }
 
 
 
 .footer {
-    background-color: #C19A6C;
+    background-color: #BE9278;
     padding: 50px 0;
 }
 
