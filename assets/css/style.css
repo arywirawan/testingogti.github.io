@@ -7493,7 +7493,7 @@ del {
 
 
 .footer {
-    background-color: #BE9278;
+    background-color: #c7c7c7;
     padding: 50px 0;
 }
 
@@ -7508,14 +7508,17 @@ del {
 }
 
 .footer .footer-menu li a {
-    color: #ffffff;
+    color: #303030;
     font-size: 12px;
 }
 
 .footer .copyright-text {
     margin-top: 20px;
 }
+.copyright-text {
+    color: #eaeaea;
+}
 
 .copyright-text a {
-    color: #fff;
+    color: #eaeaea;
 }
